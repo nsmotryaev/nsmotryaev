@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nsmotryaev
 - 👀 I’m interested in data science, data analytics
-- 🌱 I’m currently learning data science base
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on some ML project
 - 📫 How to reach me nsmotryaev@gmail.com
 
 <!---
