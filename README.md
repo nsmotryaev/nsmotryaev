@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsmotryaev
+- 👋 Hi, I’m @nsmotryaev. Moscow 24 yo
 - 👀 I’m interested in data science, data analytics
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on some ML project
